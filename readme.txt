@@ -4,4 +4,7 @@ Git has a mutable index called stage.
 Git tracks changed of files.
 Good Morning everyone .
 stored current File;
-add a
+
+
+add dev directory;
+
